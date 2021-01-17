@@ -1,0 +1,112 @@
+[
+      {
+        "id": 1,
+        "name": "Action for the Global Goals",
+        "description": "In September 2015, 193 world leaders committed to the Global Goals for Sustainable Development. These are 17 Goals to achieve three extraordinary things by 2030.",
+        "image": "/assets/channels/action.jpg",
+        "num_activities": 18,
+        "activities": [
+          {
+            "id": 1,
+            "name": "Introduction: The Global Goals",
+            "description": "An introduction to the Global Goals, what they are, and those that are most important to you.",
+            "image": "/assets/activities/1-1-IntroductionGlobalGoals.jpg",
+            "summary": "An introduction to the Global Goals. You don't need materials for this activity.",
+            "num_steps": 5,
+            "completed_steps": 0,
+            "steps": [
+              {
+                "id": 1,
+                "description": "Break a leg",
+                "type": "",
+                "points": 25
+              },
+              {
+                "id": 2,
+                "description": "Break an arm",
+                "type": "",
+                "points": 50
+              },
+              {
+                "id": 3,
+                "description": "Break your face",
+                "type": "",
+                "points": 75
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "name": "Goal 1: No Poverty",
+            "image": "",
+            "summary": "What No Poverty means, and things that you can do. You don't need materials for this activity.",
+            "num_steps": 10,
+            "completed_steps": 0
+          },
+          {
+            "id": 3,
+            "name": "Goal 2: Zero Hunger",
+            "image": "",
+            "summary": "What Zero Hunger means, and things that you can do. You don't need materials for this activity.",
+            "num_steps": 11,
+            "completed_steps": 0
+          },
+          {
+            "id": 4,
+            "name": "Goal 3: Good Health and Well-being",
+            "image": "",
+            "summary": "What Good Health and Well-being means, and things that you can do. You don't need materials for this activity.",
+            "num_steps": 13,
+            "completed_steps": 0
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "name": "A Better You",
+        "image": "/assets/channels/you.jpg",
+        "num_activites": 15
+      },
+      {
+        "id": 3,
+        "name": "Understanding Robotics",
+        "image": "/assets/channels/robotics.jpg",
+        "num_activities": 8
+      },
+      {
+        "id": 4,
+        "name": "Uncovering Tech",
+        "image": "/assets/channels/tech.jpg",
+        "num_activities": 10
+      },
+      {
+        "id": 5,
+        "name": "Mysteries of Science",
+        "image": "/assets/channels/science.jpg",
+        "num_activities": 12
+      },
+      {
+        "id": 6,
+        "name": "Design & Innovation",
+        "image": "/assets/channels/design.jpg",
+        "num_activities": 12
+      },
+      {
+        "id": 7,
+        "name": "Exploring Our World",
+        "image": "/assets/channels/world.jpg",
+        "num_activities": 12
+      },
+      {
+        "id": 8,
+        "name": "All About Energy",
+        "image": "/assets/channels/energy.jpg",
+        "num_activities": 11
+      },
+      {
+        "id": 9,
+        "name": "Navigation Center",
+        "image": "/assets/channels/navigation.jpg",
+        "num_activities": 2
+      }
+]
