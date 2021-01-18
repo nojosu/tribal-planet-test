@@ -1,112 +1,1200 @@
 [
+  {
+    "id": 1,
+    "name": "Action for the Global Goals",
+    "description": "In September 2015, 193 world leaders committed to the Global Goals for Sustainable Development. These are 17 Goals to achieve three extraordinary things by 2030.",
+    "image": "/assets/channels/action.jpg",
+    "num_activities": 18,
+    "activities": [
       {
         "id": 1,
-        "name": "Action for the Global Goals",
-        "description": "In September 2015, 193 world leaders committed to the Global Goals for Sustainable Development. These are 17 Goals to achieve three extraordinary things by 2030.",
-        "image": "/assets/channels/action.jpg",
-        "num_activities": 18,
-        "activities": [
+        "name": "Introduction: The Global Goals",
+        "description": "An introduction to the Global Goals, what they are, and those that are most important to you.",
+        "image": "/assets/activities/channel1/introduction.jpg",
+        "summary": "An introduction to the Global Goals. You don't need materials for this activity.",
+        "num_steps": 5,
+        "completed_steps": 0,
+        "steps": [
           {
             "id": 1,
-            "name": "Introduction: The Global Goals",
-            "description": "An introduction to the Global Goals, what they are, and those that are most important to you.",
-            "image": "/assets/activities/1-1-IntroductionGlobalGoals.jpg",
-            "summary": "An introduction to the Global Goals. You don't need materials for this activity.",
-            "num_steps": 5,
-            "completed_steps": 0,
-            "steps": [
-              {
-                "id": 1,
-                "description": "Break a leg",
-                "type": "",
-                "points": 25
-              },
-              {
-                "id": 2,
-                "description": "Break an arm",
-                "type": "",
-                "points": 50
-              },
-              {
-                "id": 3,
-                "description": "Break your face",
-                "type": "",
-                "points": 75
-              }
-            ]
+            "description": "Have you heard of the Global Goals before?",
+            "type": "quiz",
+            "points": 25
           },
           {
             "id": 2,
-            "name": "Goal 1: No Poverty",
-            "image": "",
-            "summary": "What No Poverty means, and things that you can do. You don't need materials for this activity.",
-            "num_steps": 10,
-            "completed_steps": 0
+            "description": "If you have heard of the Global Goals, which one do you care the most about?",
+            "type": "quiz",
+            "points": 25
           },
           {
             "id": 3,
-            "name": "Goal 2: Zero Hunger",
-            "image": "",
-            "summary": "What Zero Hunger means, and things that you can do. You don't need materials for this activity.",
-            "num_steps": 11,
-            "completed_steps": 0
+            "description": "Watch this introduction to the Global Goals by Emma Watson",
+            "type": "vid",
+            "points": 25
           },
           {
             "id": 4,
-            "name": "Goal 3: Good Health and Well-being",
-            "image": "",
-            "summary": "What Good Health and Well-being means, and things that you can do. You don't need materials for this activity.",
-            "num_steps": 13,
-            "completed_steps": 0
+            "description": "Have you ever done a project in your community that supports the goals?",
+            "type": "quiz",
+            "points": 25
           }
         ]
       },
       {
         "id": 2,
-        "name": "A Better You",
-        "image": "/assets/channels/you.jpg",
-        "num_activites": 15
+        "name": "Goal 1: No Poverty",
+        "description": "Explore this activity for ideas on practical things that you can do, and then share your story of what you have done to make an impact.",
+        "image": "/assets/activities/channel1/1-NoPoverty.jpg",
+        "summary": "What No Poverty means, and things that you can do. You don't need materials for this activity.",
+        "num_steps": 4,
+        "completed_steps": 0,
+        "steps": [
+          {
+            "id": 1,
+            "description": "Have you heard of the Global Goals before?",
+            "type": "quiz",
+            "points": 25
+          },
+          {
+            "id": 2,
+            "description": "Watch this video to understand more about No Poverty",
+            "type": "vid",
+            "points": 25
+          },
+          {
+            "id": 3,
+            "description": "Example Action: Organize and/or take part in an entrepeneurship",
+            "type": "quiz",
+            "points": 25
+          },
+          {
+            "id": 4,
+            "description": "Example Action: Raise awareness about social protection",
+            "type": "quiz",
+            "points": 25
+          }
+        ]
       },
       {
         "id": 3,
-        "name": "Understanding Robotics",
-        "image": "/assets/channels/robotics.jpg",
-        "num_activities": 8
+        "name": "Goal 2: Zero Hunger",
+        "description": "Around 1 in 8 people in the world were estimated to be suffering from chronic hunger. Even if you are lucky enough not to be among them, there might be people in your school, apartment block or neighborhood who are going to bed hungry.",
+        "image": "/assets/activities/channel1/2-ZeroHunger.jpg",
+        "summary": "What Zero Hunger means, and things that you can do. You don't need materials for this activity.",
+        "num_steps": 11,
+        "completed_steps": 0,
+        "steps": [
+          {
+            "id": 1,
+            "description": "What do you already know about this goal?",
+            "type": "quiz",
+            "points": 25
+          },
+          {
+            "id": 2,
+            "description": "Watch this video to understand more about Zero Hunger",
+            "type": "vid",
+            "points": 25
+          },
+          {
+            "id": 3,
+            "description": "Example Action: Donate to food banks",
+            "type": "quiz",
+            "points": 25
+          },
+          {
+            "id": 4,
+            "description": "Example Action: Learn how to cook",
+            "type": "quiz",
+            "points": 25
+          }
+        ]
       },
       {
         "id": 4,
-        "name": "Uncovering Tech",
-        "image": "/assets/channels/tech.jpg",
-        "num_activities": 10
+        "name": "Goal 3: Good Health and Well-being",
+        "description": "Immunization currently averts an estimated 2 to 3 million deaths every year. An additional 1.5 million deaths could be avoided, however, if global vaccination coverage improves.",
+        "image": "/assets/activities/channel1/3-GoodHealth.jpg",
+        "summary": "What Good Health and Well-being means, and things that you can do. You don't need materials for this activity.",
+        "num_steps": 13,
+        "completed_steps": 0,
+        "steps": [
+          {
+            "id": 1,
+            "description": "What do you already know about this goal?",
+            "type": "quiz",
+            "points": 25
+          },
+          {
+            "id": 2,
+            "description": "Watch this video to understand more about Good Health and Well-Being",
+            "type": "vid",
+            "points": 25
+          },
+          {
+            "id": 3,
+            "description": "Example Action: Use vaccination",
+            "type": "quiz",
+            "points": 25
+          },
+          {
+            "id": 4,
+            "description": "Example Action: Volunteer at a hospital",
+            "type": "quiz",
+            "points": 25
+          }
+        ]
       },
       {
         "id": 5,
-        "name": "Mysteries of Science",
-        "image": "/assets/channels/science.jpg",
-        "num_activities": 12
+        "name": "Goal 4: Quality Education",
+        "description": "If you are among the youth that has or had chance to go to school, you are lucky! There are a lot of reasons why youth and kids drop out of education.",
+        "image": "/assets/activities/channel1/4-QualityEducation.jpg",
+        "summary": "What Quality Education means, and things that you can do. You don't need materials for this activity.",
+        "num_steps": 7,
+        "completed_steps": 0,
+        "steps": [
+          {
+            "id": 1,
+            "description": "What do you already know about this goal?",
+            "type": "quiz",
+            "points": 25
+          },
+          {
+            "id": 2,
+            "description": "Watch this video to understand more about Quality Education",
+            "type": "vid",
+            "points": 25
+          },
+          {
+            "id": 3,
+            "description": "Example Action: Donate your books",
+            "type": "quiz",
+            "points": 25
+          },
+          {
+            "id": 4,
+            "description": "Example Action: Fundraise for a local shool",
+            "type": "quiz",
+            "points": 25
+          }
+        ]
       },
       {
         "id": 6,
-        "name": "Design & Innovation",
-        "image": "/assets/channels/design.jpg",
-        "num_activities": 12
+        "name": "Goal 5: Gender Equality",
+        "description": "In different countries the exposure of this issue is different but the fact is: Over 150 countries have at least one law that is discriminatory against women.",
+        "image": "/assets/activities/channel1/5-GenderEquality.jpg",
+        "summary": "What Gender Equality means, and things that you can do. You don't need materials for this activity.",
+        "num_steps": 6,
+        "completed_steps": 0,
+        "steps": [
+          {
+            "id": 1,
+            "description": "What do you already know about this goal?",
+            "type": "quiz",
+            "points": 25
+          },
+          {
+            "id": 2,
+            "description": "Watch this video to understand more about Gender Equality",
+            "type": "vid",
+            "points": 25
+          },
+          {
+            "id": 3,
+            "description": "Example Action: Speak up for women in danger",
+            "type": "quiz",
+            "points": 25
+          },
+          {
+            "id": 4,
+            "description": "Example Action: Run a space about career planning for girls",
+            "type": "quiz",
+            "points": 25
+          }
+        ]
       },
       {
         "id": 7,
-        "name": "Exploring Our World",
-        "image": "/assets/channels/world.jpg",
-        "num_activities": 12
-      },
-      {
-        "id": 8,
-        "name": "All About Energy",
-        "image": "/assets/channels/energy.jpg",
-        "num_activities": 11
-      },
-      {
-        "id": 9,
-        "name": "Navigation Center",
-        "image": "/assets/channels/navigation.jpg",
-        "num_activities": 2
+        "name": "Goal 6: Clean Water and Sanitation",
+        "description": "More than 750 million people lack adequate access to clean drinking water. We are talking about access to the most needed resource for people to surive.",
+        "image": "/assets/activities/channel1/6-CleanWater.jpg",
+        "summary": "What Clean Water and Sanitation means, and things that you can do. You don't need materials for this activity.",
+        "num_steps": 7,
+        "completed_steps": 0,
+        "steps": [
+          {
+            "id": 1,
+            "description": "What do you already know about this goal?",
+            "type": "quiz",
+            "points": 25
+          },
+          {
+            "id": 2,
+            "description": "Watch this video to understand more about Clean Water and Sanitation",
+            "type": "vid",
+            "points": 25
+          },
+          {
+            "id": 3,
+            "description": "Example Action: Run a campaign on hygiene",
+            "type": "quiz",
+            "points": 25
+          },
+          {
+            "id": 4,
+            "description": "Example Action: Don't overuse water",
+            "type": "quiz",
+            "points": 25
+          }
+        ]
       }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "A Better You",
+    "description": "Leadership is a skill that you have probably heard a great deal about. People talk about the importance of leadership at school, at college, at work, and in your own personal life. But who needs leadership skills?",
+    "image": "/assets/channels/you.jpg",
+    "num_activites": 15,
+    "activities": [
+      {
+        "id": 1,
+        "name": "Keeping the train on track",
+        "description": "Gain an understanding of how structure and routines can create a sense of order and calm in challenging and uncertain times.",
+        "image": "/assets/activities/channel2/Train.jpg",
+        "summary": "How to keep a sense of order and calm in challening and uncertain times.",
+        "num_steps": 5,
+        "completed_steps": 0,
+        "steps": [
+          {
+            "id": 1,
+            "description": "How often do you plan ahead?",
+            "type": "quiz",
+            "points": 25
+          },
+          {
+            "id": 2,
+            "description": "How are trains and tracks similar to you?",
+            "type": "act",
+            "points": 25
+          },
+          {
+            "id": 3,
+            "description": "What was a typical day like for you before Covid-19?",
+            "type": "quick",
+            "points": 50
+          },
+          {
+            "id": 4,
+            "description": "Design a new daily schedule",
+            "type": "pic",
+            "points": 50
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "name": "Keeping connected",
+        "description": "It sounds strange, but even when we're confined to our homes and have more time with our families, it can be harder to stay connected.",
+        "image": "/assets/activities/channel2/Connected.jpg",
+        "summary": "Stay connected with family memebers through fun questions!",
+        "num_steps": 4,
+        "completed_steps": 0,
+        "steps": [
+          {
+            "id": 1,
+            "description": "How often do you listen to other people's perspectives?",
+            "type": "quiz",
+            "points": 25
+          },
+          {
+            "id": 2,
+            "description": "Identify fun questions that you could interview family members around",
+            "type": "quiz",
+            "points": 50
+          },
+          {
+            "id": 3,
+            "description": "Determine who you will interview, how and when",
+            "type": "quiz",
+            "points": 50
+          },
+          {
+            "id": 4,
+            "description": "Your SDC Action: Complete the interviews!",
+            "type": "pic",
+            "points": 100
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "name": "Staying positive",
+        "description": "Fountains and Drains have two opposite functions: fountains overflow with water while drains remove the water completely.",
+        "image": "/assets/activities/channel2/Positive.jpg",
+        "summary": "Explore Fountain and Drain behaviors in people.",
+        "num_steps": 11,
+        "completed_steps": 0,
+        "steps": [
+          {
+            "id": 1,
+            "description": "How often do you focus on positive things?",
+            "type": "quiz",
+            "points": 25
+          },
+          {
+            "id": 2,
+            "description": "Watch this video",
+            "type": "vid",
+            "points": 25
+          },
+          {
+            "id": 3,
+            "description": "Create something that makes you feel positive",
+            "type": "pic",
+            "points": 50
+          },
+          {
+            "id": 4,
+            "description": "How often will you focus on positive things in the future?",
+            "type": "quiz",
+            "points": 25
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "name": "Taking ownership",
+        "description": "Taking ownership of your circumstances is not always a given. Even leaders of companies, who are officially the ones in charge, often don't take responsibility for everything under their care.",
+        "image": "/assets/activities/channel2/Ownership.jpg",
+        "summary": "Explore how to take ownership over something in your or others' lives.",
+        "num_steps": 13,
+        "completed_steps": 0,
+        "steps": [
+          {
+            "id": 1,
+            "description": "How often do you take ownership of situations?",
+            "type": "quiz",
+            "points": 25
+          },
+          {
+            "id": 2,
+            "description": "Can you see the significance of taking ownership?",
+            "type": "act",
+            "points": 25
+          },
+          {
+            "id": 3,
+            "description": "What could you take ownership of?",
+            "type": "quiz",
+            "points": 50
+          },
+          {
+            "id": 4,
+            "description": "Develop your own ownership plan",
+            "type": "pic",
+            "points": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Understanding Robotics",
+    "description": "Robots are all around us. They include robotic wearables, body parts, robots that deliver packages, companion robots for the elderly, medical devices, and even biomorphic drones.",
+    "image": "/assets/channels/robotics.jpg",
+    "num_activities": 8,
+    "activities": [
+      {
+        "id": 1,
+        "name": "Imagining robots",
+        "description": "How often do engineers visualize the future with robots? What does it take to design, test, and build a new robotic concept?",
+        "image": "/assets/activities/channel3/Imagining.jpg",
+        "summary": "What is possible when you can use or create a robot?",
+        "num_steps": 5,
+        "completed_steps": 0,
+        "steps": [
+          {
+            "id": 1,
+            "description": "Watch this video to see ten different types of robots",
+            "type": "vid",
+            "points": 25
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "name": "Exploring modular robots",
+        "description": "Researchers are developing robots that change shapes to perform different tasks. Come up with ideas for transformable robots.",
+        "image": "/assets/activities/channel3/Exploring.jpg",
+        "summary": "How might modular robots change society?",
+        "num_steps": 4,
+        "completed_steps": 0,
+        "steps": [
+          {
+            "id": 1,
+            "description": "Do you already know what modular robots are?",
+            "type": "quiz",
+            "points": 10
+          },
+          {
+            "id": 2,
+            "description": "Watch this video to understand more about modular robots",
+            "type": "vid",
+            "points": 10
+          },
+          {
+            "id": 3,
+            "description": "What are the benefits of modular robots?",
+            "type": "quiz",
+            "points": 50
+          },
+          {
+            "id": 4,
+            "description": "Design a modular robot",
+            "type": "pic",
+            "points": 100
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "name": "Bio-inspired robots",
+        "description": "Robots that walk and run as well as humans and animals do are very difficult to build. Learn how challenging it can be..",
+        "image": "/assets/activities/channel3/Bio.jpg",
+        "summary": "Build a basic robot. You need some materials for this activity.",
+        "num_steps": 11,
+        "completed_steps": 0,
+        "steps": [
+          {
+            "id": 1,
+            "description": "Do you already know how robots are constructed?",
+            "type": "quiz",
+            "points": 10
+          },
+          {
+            "id": 2,
+            "description": "Watch this video to see how complicated it is",
+            "type": "vid",
+            "points": 10
+          },
+          {
+            "id": 3,
+            "description": "Watch this video to see how to build a basic robot",
+            "type": "vid",
+            "points": 10
+          },
+          {
+            "id": 4,
+            "description": "Gather the materials and make a Bristlebot",
+            "type": "act",
+            "points": 25
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "name": "Advances in insect robotics",
+        "description": "For years, scientists have sought to build aerial robots inspired by bees and other flying insects. But they always run into a fundamental problem: flying takes a lot of energy.",
+        "image": "/assets/activities/channel3/Advances.jpg",
+        "summary": "Meet a robot the size of a bee.",
+        "num_steps": 13,
+        "completed_steps": 0,
+        "steps": [
+          {
+            "id": 1,
+            "description": "Do you already have any ideas about this?",
+            "type": "quiz",
+            "points": 10
+          },
+          {
+            "id": 2,
+            "description": "Watch this video about a solar-powered bee robot",
+            "type": "vid",
+            "points": 10
+          },
+          {
+            "id": 3,
+            "description": "What practical uses can you imagne?",
+            "type": "quiz",
+            "points": 25
+          },
+          {
+            "id": 4,
+            "description": "Do you have ideas on how to power a small flying robot?",
+            "type": "quiz",
+            "points": 25
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Uncovering Tech",
+    "description": "We are on the brink of a revolution that will fundamentally change the way we live, work, and relate to each other. It will be unlike anything humankind has experienced. It is called the 4th Industrial Revolution.",
+    "image": "/assets/channels/tech.jpg",
+    "num_activities": 10,
+    "activities": [
+      {
+        "id": 1,
+        "name": "How technology has disrupted our world",
+        "description": "As new inventions are being made at an increasingly faster pace, the world as we know it will continue to change at a faster and faster pace.",
+        "image": "/assets/activities/channel4/HowTech.jpg",
+        "summary": "Some things have changed the way we look at the world forever.",
+        "num_steps": 5,
+        "completed_steps": 0,
+        "steps": [
+          {
+            "id": 1,
+            "description": "Do you already know the impact that technology will have on jobs?",
+            "type": "quiz",
+            "points": 10
+          },
+          {
+            "id": 2,
+            "description": "What would like be like without the inventions we take for granted?",
+            "type": "quiz",
+            "points": 25
+          },
+          {
+            "id": 3,
+            "description": "Which jobs will be the most impacted by technology?",
+            "type": "quiz",
+            "points": 25
+          },
+          {
+            "id": 4,
+            "description": "How will the future skills for a job be different to today?",
+            "type": "quiz",
+            "points": 25
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "name": "Technology and the future",
+        "description": "From having your genetics edited to time travel, let's compare the probability of these technologies being available in 2100!",
+        "image": "/assets/activities/channel4/TechAndFuture.jpg",
+        "summary": "What might technology look like in 2100?",
+        "num_steps": 1,
+        "completed_steps": 0,
+        "steps": [
+          {
+            "id": 1,
+            "description": "Watch this video to see how farfeted possibilities for 2100 seem",
+            "type": "vid",
+            "points": 25
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "name": "Fake news",
+        "description": "APIs are a way that programs communicate with each other. For example, Facebook can tell your calendar app you are scheduled to attend an event.",
+        "image": "/assets/activities/channel4/FakeNews.jpg",
+        "summary": "How could open APIs stop fake news in Social Media?",
+        "num_steps": 5,
+        "completed_steps": 0,
+        "steps": [
+          {
+            "id": 1,
+            "description": "Do you think government should intervene in social media?",
+            "type": "quiz",
+            "points": 50
+          },
+          {
+            "id": 2,
+            "description": "Can you think of another idea to allow for more transparency in social media?",
+            "type": "vid",
+            "points": 100
+          },
+          {
+            "id": 3,
+            "description": "Do you know?",
+            "type": "quiz",
+            "points": 10
+          },
+          {
+            "id": 4,
+            "description": "Did you like it?",
+            "type": "quiz",
+            "points": 10
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "name": "What is an API?",
+        "description": "Learn how an Application Programming Interface works with the technology we use everyday.",
+        "image": "/assets/activities/channel4/API.jpg",
+        "summary": "Learn how software engineers build apps.",
+        "num_steps": 13,
+        "completed_steps": 0,
+        "steps": [
+          {
+            "id": 1,
+            "description": "Do you already know what an API is?",
+            "type": "quiz",
+            "points": 10
+          },
+          {
+            "id": 2,
+            "description": "Watch this video to learn about APIs",
+            "type": "vid",
+            "points": 10
+          },
+          {
+            "id": 3,
+            "description": "Can you think of another scenario which would use an API?",
+            "type": "quiz",
+            "points": 25
+          },
+          {
+            "id": 4,
+            "description": "Do you know?",
+            "type": "quiz",
+            "points": 10
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Mysteries of Science",
+    "description": "We all have questions that we would like answered about our existence, our planet and our universe.",
+    "image": "/assets/channels/science.jpg",
+    "num_activities": 4,
+    "activities": [
+      {
+        "id": 1,
+        "name": "The quest of science",
+        "description": "Science is about a process and not just the answers you uncover. Explore the mysteries we are still unraveling.",
+        "image": "/assets/activities/channel5/Neverending.jpg",
+        "summary": "Scientists work to expand our knowledge and discover new things.",
+        "num_steps": 1,
+        "completed_steps": 0,
+        "steps": [
+          {
+            "id": 1,
+            "description": "Do you already know the impact that technology will have on jobs?",
+            "type": "quiz",
+            "points": 10
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "name": "How do diseases spread?",
+        "description": "How can we find the best way to prevent an outbreak once it's started? Learn how scientists solve the puzzle.",
+        "image": "/assets/activities/channel5/Diseases.jpg",
+        "summary": "Use mathematics to calculate how fast a disease outbreak spreads.",
+        "num_steps": 5,
+        "completed_steps": 0,
+        "steps": [
+          {
+            "id": 1,
+            "description": "Do you already know how diseases spread?",
+            "type": "quiz",
+            "points": 10
+          },
+          {
+            "id": 2,
+            "description": "Watch this video to understand how infectious diseases spread",
+            "type": "vid",
+            "points": 10
+          },
+          {
+            "id": 3,
+            "description": "Solve a riddle",
+            "type": "quiz",
+            "points": 20
+          },
+          {
+            "id": 4,
+            "description": "Solve a riddle",
+            "type": "quiz",
+            "points": 20
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "name": "Build a model molecule",
+        "description": "Everything in and around us is made up of atoms. They are considered the building blocks of matter.",
+        "image": "/assets/activities/channel5/Molecule.jpg",
+        "summary": "Explore the smallest building block in the universe.",
+        "num_steps": 6,
+        "completed_steps": 0,
+        "steps": [
+          {
+            "id": 1,
+            "description": "Do you know the science behind atoms?",
+            "type": "quiz",
+            "points": 10
+          },
+          {
+            "id": 2,
+            "description": "Watch this video to explore how atoms work",
+            "type": "vid",
+            "points": 10
+          },
+          {
+            "id": 3,
+            "description": "Gather your materials to build a model sucrose molecule",
+            "type": "pic",
+            "points": 100
+          },
+          {
+            "id": 4,
+            "description": "Build a model of sucrose molecule",
+            "type": "pic",
+            "points": 25
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "name": "Bioaccumulation",
+        "description": "All living things need energy to survive. Humans are not only a top predator in many food chains but are also responsible for impacting them.",
+        "image": "/assets/activities/channel5/Bioaccumulation.jpg",
+        "summary": "Our food may contain more than we realize.",
+        "num_steps": 8,
+        "completed_steps": 0,
+        "steps": [
+          {
+            "id": 1,
+            "description": "Do you already know what bioaccumulation is?",
+            "type": "quiz",
+            "points": 10
+          },
+          {
+            "id": 2,
+            "description": "Watch this video to learn about bioaccumulation",
+            "type": "vid",
+            "points": 10
+          },
+          {
+            "id": 3,
+            "description": "How can we reduce mercury accumulation in marine creatures?",
+            "type": "quiz",
+            "points": 25
+          },
+          {
+            "id": 4,
+            "description": "Do you know sources of mercury?",
+            "type": "quiz",
+            "points": 25
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Design & Innovation",
+    "description": "Design is the process of envisioning and planning the creation of things to solve a need of or problem. Steve Jobs said that design is not just what it looks like and feels like. Design is how it works.",
+    "image": "/assets/channels/design.jpg",
+    "num_activities": 12,
+    "activities": [
+      {
+        "id": 1,
+        "name": "Design thinking",
+        "description": "Design thinking is a technique to solve a problem. It's a creative process used by businesses and entrepeneurs that allows us to empathize and understand users needs, identify problems, and brainstorm ideas.",
+        "image": "/assets/activities/channel6/DesignThinking.jpg",
+        "summary": "Explore the design thinking approach for problem solving. You don't need any materials to complete this activity.",
+        "num_steps": 9,
+        "completed_steps": 0,
+        "steps": [
+          {
+            "id": 1,
+            "description": "Do you already know the design thinking process is?",
+            "type": "quiz",
+            "points": 10
+          },
+          {
+            "id": 2,
+            "description": "Watch this video to understand the five stages of design thinking process",
+            "type": "vid",
+            "points": 10
+          },
+          {
+            "id": 3,
+            "description": "Explore stage 1: Empathy",
+            "type": "quiz",
+            "points": 25
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "name": "Design thinking challenge: A household object",
+        "description": "In this activity, you will apply the five stages of design thinking process to improve the design of an object at home.",
+        "image": "/assets/activities/channel6/Challenge.jpg",
+        "summary": "Apply the design thinking process to improve a household item.",
+        "num_steps": 9,
+        "completed_steps": 0,
+        "steps": [
+          {
+            "id": 1,
+            "description": "Do you already know how to use this process to improve an exsiting object?",
+            "type": "quiz",
+            "points": 10
+          },
+          {
+            "id": 2,
+            "description": "Identify an everyday object",
+            "type": "quiz",
+            "points": 10
+          },
+          {
+            "id": 3,
+            "description": "Stage 1: Empathy",
+            "type": "pic",
+            "points": 50
+          },
+          {
+            "id": 4,
+            "description": "Stage 2: Define",
+            "type": "quiz",
+            "points": 25
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "name": "Design thinking challenge: Classroom of the future",
+        "description": "We all learn differently. And we also learn in different ways than our parents or grandparents did. What kind of physical space is needed to encourage new ways of thinking, sharing in formation, working amongst peers, and engaging with a world beyond the classroom's four walls?",
+        "image": "/assets/activities/channel6/Classroom.jpg",
+        "summary": "Apply the design thinking process to design a futuristic classroom.",
+        "num_steps": 8,
+        "completed_steps": 0,
+        "steps": [
+          {
+            "id": 1,
+            "description": "Do you know how design thinking can help in the design of new spaces?",
+            "type": "quiz",
+            "points": 10
+          },
+          {
+            "id": 2,
+            "description": "Stage 1: Empathy",
+            "type": "pic",
+            "points": 200
+          },
+          {
+            "id": 3,
+            "description": "Stage 2: Define",
+            "type": "quiz",
+            "points": 25
+          },
+          {
+            "id": 4,
+            "description": "Stage 3: Ideate",
+            "type": "quiz",
+            "points": 100
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Exploring Our World",
+    "description": "We inhabit a beautiful planet that provides its species with ample water and ideal levels of sunlight and breathable oxygen. However, we have exploited the generosity of planet Earth.",
+    "image": "/assets/channels/world.jpg",
+    "num_activities": 12,
+    "activities": [
+      {
+        "id": 1,
+        "name": "Our world and its future",
+        "description": "The history of the universe is tremendous. If you stop and reflect, the story of humans is only one small piece of the greater puzzle. The Big Bang once sparked the first cell of life on this planet.",
+        "image": "/assets/activities/channel7/OurWorld.jpg",
+        "summary": "What makes planet Earth our unique home?.",
+        "num_steps": 1,
+        "completed_steps": 0,
+        "steps": [
+          {
+            "id": 1,
+            "description": "Watch this video to see David Attenborough share his brief story of life on our planet",
+            "type": "vid",
+            "points": 10
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "name": "Neighborhood plant ecosystems",
+        "description": "There are hundreds of different plant species living in your neigborhood ecosystem. Scientists call this assortment of organisms biodiversity. Explore your local ecosystem and share what you discovered.",
+        "image": "/assets/activities/channel7/Neighborhood.jpg",
+        "summary": "Identify the plant species in your neighborhood",
+        "num_steps": 7,
+        "completed_steps": 0,
+        "steps": [
+          {
+            "id": 1,
+            "description": "Do you already know what different plant species are in your neighborhood?",
+            "type": "quiz",
+            "points": 10
+          },
+          {
+            "id": 2,
+            "description": "Describe the characteristics of your neighborhood",
+            "type": "quiz",
+            "points": 25
+          },
+          {
+            "id": 3,
+            "description": "Go outside and record all the plants that you can see",
+            "type": "quiz",
+            "points": 100
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "name": "Why are octopuses so intelligent?",
+        "description": "An octopus' brain is spread throughout their body so that all parts of their body can think. Each of the eight arms can do different things at the same time.",
+        "image": "/assets/activities/channel7/Octopuses.jpg",
+        "summary": "Explore octopus neurons to understand how its brain works",
+        "num_steps": 7,
+        "completed_steps": 0,
+        "steps": [
+          {
+            "id": 1,
+            "description": "Do you know how octopuses bodies work and think?",
+            "type": "quiz",
+            "points": 10
+          },
+          {
+            "id": 2,
+            "description": "Watch this video to learn more about octopuses",
+            "type": "vid",
+            "points": 10
+          },
+          {
+            "id": 3,
+            "description": "What do you know about octopuses?",
+            "type": "quiz",
+            "points": 25
+          },
+          {
+            "id": 4,
+            "description": "Check out the OctoCam at Hatfield Marine Science Center in Oregon",
+            "type": "act",
+            "points": 10
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "name": "The hazards of air pollution",
+        "description": "In extreme remote areas, air quality tends to be better. But in an urban area, many citizens experience the opposite. Explore how air pollution affects the air in our cities.",
+        "image": "/assets/activities/channel7/Hazards.jpg",
+        "summary": "How clean is the air you breathe?",
+        "num_steps": 7,
+        "completed_steps": 0,
+        "steps": [
+          {
+            "id": 1,
+            "description": "Do you already know about air quality and what causes air pollution?",
+            "type": "quiz",
+            "points": 10
+          },
+          {
+            "id": 2,
+            "description": "Watch this video to learn how air pollution enters the air and affects our health",
+            "type": "vid",
+            "points": 10
+          },
+          {
+            "id": 3,
+            "description": "Investigate world air pollution quality index and zoom in on your home city",
+            "type": "act",
+            "points": 25
+          },
+          {
+            "id": 4,
+            "description": "Based on the WAQI, what is the Air Quality Index in your home location?",
+            "type": "quiz",
+            "points": 25
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "name": "All About Energy",
+    "description": "Between 1990 and 2020, global energy consumption increased by nearly 60%. The good news is that over the next 20 years, growth is predicted to be much lower, despite population growth.",
+    "image": "/assets/channels/energy.jpg",
+    "num_activities": 11,
+    "activities": [
+      {
+        "id": 1,
+        "name": "Energy and our world",
+        "description": "How we use energy today matters for how we will live tomorrow. Scientists have warned about the impact of burning nonrenewable fuels and what they do to our planet. Imagine the possibilities of new ways of generating, sharing and storing energy.",
+        "image": "/assets/activities/channel8/EnergyAnd.jpg",
+        "summary": "Our world is transforming as are new ways to transfer energy. You don't need any materials to complete this activity.",
+        "num_steps": 1,
+        "completed_steps": 0,
+        "steps": [
+          {
+            "id": 1,
+            "description": "Watch this video to explore energy and all the possibilities for the future",
+            "type": "vid",
+            "points": 25
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "name": "Kinetic versus potential energy",
+        "description": "Energy allows both people and machines to do work. All energy can be classified as the energy of motion (kinetic energy) or stored energy (potential energy).",
+        "image": "/assets/activities/channel8/Kinetic.jpg",
+        "summary": "Explore the difference between kinetic and potential energy.",
+        "num_steps": 6,
+        "completed_steps": 0,
+        "steps": [
+          {
+            "id": 1,
+            "description": "Do you already know the difference between potential and kinetic energy?",
+            "type": "quiz",
+            "points": 10
+          },
+          {
+            "id": 2,
+            "description": "Watch this video for an overview on energy types",
+            "type": "quiz",
+            "points": 10
+          },
+          {
+            "id": 3,
+            "description": "Identify an everyday object that has potential energy",
+            "type": "pic",
+            "points": 25
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "name": "Energy for the poor",
+        "description": "Over one billion people still do not have access to modern forms of energy like electricity or natural gas. Instead, the poor use wood fires for cooking or have to pay very high prices for diesel generators and batteries.",
+        "image": "/assets/activities/channel8/ThePoor.jpg",
+        "summary": "What is energy poverty, and how can it be solved?",
+        "num_steps": 6,
+        "completed_steps": 0,
+        "steps": [
+          {
+            "id": 1,
+            "description": "Do you already know what energy poverty is?",
+            "type": "quiz",
+            "points": 10
+          },
+          {
+            "id": 2,
+            "description": "What does it mean to be energy poor or to live in energy poverty?",
+            "type": "vid",
+            "points": 10
+          },
+          {
+            "id": 3,
+            "description": "How can energy poverty be addressed?",
+            "type": "act",
+            "points": 25
+          },
+          {
+            "id": 4,
+            "description": "What are the options for people who live in energy poor areas?",
+            "type": "quiz",
+            "points": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Navigation Center",
+    "description": "This channel includes some activities to get you started in MPACT, and an opportunity for you to share your thoughts with us so that we can make MPACT better for you and other people.",
+    "image": "/assets/channels/navigation.jpg",
+    "num_activities": 2,
+    "activities": [
+      {
+        "id": 1,
+        "name": "This is MPACT",
+        "description": "Watch this short video to see how MPACT works.",
+        "image": "/assets/activities/channel9/ThisMPACT.jpg",
+        "summary": "Watch this short video to see how MPACT works.",
+        "num_steps": 1,
+        "completed_steps": 0,
+        "steps": [
+          {
+            "id": 1,
+            "description": "Watch this short video to see how MPACT works",
+            "type": "vid",
+            "points": 50
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "name": "Tell us about you",
+        "description": "This activity asks you a number of questions about what you like, what you are good at, and what you would like to do with your career. We are asking you these questions so that we can improve the activities in MPACT and make them more relevant to you.",
+        "image": "/assets/activities/channel9/TellUs.jpg",
+        "summary": "Tell us a little about you so that we can make MPACT better.",
+        "num_steps": 22,
+        "completed_steps": 0,
+        "steps": [
+          {
+            "id": 1,
+            "description": "First of all, question 1",
+            "type": "quiz",
+            "points": 50
+          },
+          {
+            "id": 2,
+            "description": "Question 2",
+            "type": "quiz",
+            "points": 50
+          },
+          {
+            "id": 3,
+            "description": "Question 3",
+            "type": "quiz",
+            "points": 50
+          },
+          {
+            "id": 4,
+            "description": "Question 4",
+            "type": "quiz",
+            "points": 50
+          },
+          {
+            "id": 5,
+            "description": "Question 5",
+            "type": "quiz",
+            "points": 50
+          },
+          {
+            "id": 6,
+            "description": "Question 6",
+            "type": "quiz",
+            "points": 50
+          },
+          {
+            "id": 7,
+            "description": "Question 7",
+            "type": "quiz",
+            "points": 50
+          }
+        ]
+      }
+    ]
+  }
 ]

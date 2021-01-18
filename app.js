@@ -11,7 +11,6 @@ app.use(cors())
 const file = './db.json'
 
 const channels = require(file)
-console.dir(channels)
 
 // API
 app.get('/api/channels', (request, response) => {
