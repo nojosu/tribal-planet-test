@@ -1,40 +1,32 @@
 # Getting Started
 
-This project was made for Tribal Planet as part of an inital test. Please note that this repository only contains the code for the React application for an easier viewing, as the project deployed to Heroku (which also includes a Node.js server) has a minimized version of it. If you'd wish to test the deployed application, feel free to try the following link:
+This project was made for Tribal Planet as part of an inital test. Please note that this repository contains the application that was deployed to Heroku. This means that the frontend's React code is located in the build directory, minimized. If you'd wish to view the un-minimized React code, you may visit the corresponding repository:
+
+https://github.com/nojosu/tribal-web/tree/master
+
+Otherwise, you can stay in this repository,
+
+## Running from Heroku
+
+You can run the application that was deployed to Heroku, which includes the frontend (React) and the backend (Node.js) by visiting the following link:
+
 https://fierce-ravine-21806.herokuapp.com/
-
-You can also clone that other repository to run the backend and the frontend locally.
-
-This document, however, will exclusively focus on how to run the React frontend application (without the Node.js server).
 
 ## Available Scripts
 
 In the project directory, you can run:
 
-### `npm start`
+### `node start`
 
 Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+Open [http://localhost:3001](http://localhost:3001) to view it in the browser.
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+If you make edits, you must restart the server to view them, unless you use the following script.\
 
-### `npm test`
+### `node run dev`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-You will not need this command for now, as it serves no purpose in testing.
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Launches the application and the nodemon to detect any changes in the source code, and restart the server if there are any.\
+Open [http://localhost:3001](http://localhost:3001) to view it in the browser.
 
 ## Code Design Choices
 
