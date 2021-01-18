@@ -11,7 +11,7 @@
         "name": "Introduction: The Global Goals",
         "description": "An introduction to the Global Goals, what they are, and those that are most important to you.",
         "image": "/assets/activities/channel1/introduction.jpg",
-        "summary": "An introduction to the Global Goals. You don't need materials for this activity.",
+        "summary": "An introduction to the Global Goals.",
         "num_steps": 5,
         "completed_steps": 0,
         "steps": [
@@ -46,7 +46,7 @@
         "name": "Goal 1: No Poverty",
         "description": "Explore this activity for ideas on practical things that you can do, and then share your story of what you have done to make an impact.",
         "image": "/assets/activities/channel1/1-NoPoverty.jpg",
-        "summary": "What No Poverty means, and things that you can do. You don't need materials for this activity.",
+        "summary": "What No Poverty means, and things that you can do.",
         "num_steps": 4,
         "completed_steps": 0,
         "steps": [
@@ -81,7 +81,7 @@
         "name": "Goal 2: Zero Hunger",
         "description": "Around 1 in 8 people in the world were estimated to be suffering from chronic hunger. Even if you are lucky enough not to be among them, there might be people in your school, apartment block or neighborhood who are going to bed hungry.",
         "image": "/assets/activities/channel1/2-ZeroHunger.jpg",
-        "summary": "What Zero Hunger means, and things that you can do. You don't need materials for this activity.",
+        "summary": "What Zero Hunger means, and things that you can do.",
         "num_steps": 11,
         "completed_steps": 0,
         "steps": [
@@ -116,7 +116,7 @@
         "name": "Goal 3: Good Health and Well-being",
         "description": "Immunization currently averts an estimated 2 to 3 million deaths every year. An additional 1.5 million deaths could be avoided, however, if global vaccination coverage improves.",
         "image": "/assets/activities/channel1/3-GoodHealth.jpg",
-        "summary": "What Good Health and Well-being means, and things that you can do. You don't need materials for this activity.",
+        "summary": "What Good Health and Well-being means, and things that you can do.",
         "num_steps": 13,
         "completed_steps": 0,
         "steps": [
@@ -151,7 +151,7 @@
         "name": "Goal 4: Quality Education",
         "description": "If you are among the youth that has or had chance to go to school, you are lucky! There are a lot of reasons why youth and kids drop out of education.",
         "image": "/assets/activities/channel1/4-QualityEducation.jpg",
-        "summary": "What Quality Education means, and things that you can do. You don't need materials for this activity.",
+        "summary": "What Quality Education means, and things that you can do.",
         "num_steps": 7,
         "completed_steps": 0,
         "steps": [
@@ -186,7 +186,7 @@
         "name": "Goal 5: Gender Equality",
         "description": "In different countries the exposure of this issue is different but the fact is: Over 150 countries have at least one law that is discriminatory against women.",
         "image": "/assets/activities/channel1/5-GenderEquality.jpg",
-        "summary": "What Gender Equality means, and things that you can do. You don't need materials for this activity.",
+        "summary": "What Gender Equality means, and things that you can do.",
         "num_steps": 6,
         "completed_steps": 0,
         "steps": [
@@ -221,7 +221,7 @@
         "name": "Goal 6: Clean Water and Sanitation",
         "description": "More than 750 million people lack adequate access to clean drinking water. We are talking about access to the most needed resource for people to surive.",
         "image": "/assets/activities/channel1/6-CleanWater.jpg",
-        "summary": "What Clean Water and Sanitation means, and things that you can do. You don't need materials for this activity.",
+        "summary": "What Clean Water and Sanitation means, and things that you can do.",
         "num_steps": 7,
         "completed_steps": 0,
         "steps": [
@@ -258,7 +258,7 @@
     "name": "A Better You",
     "description": "Leadership is a skill that you have probably heard a great deal about. People talk about the importance of leadership at school, at college, at work, and in your own personal life. But who needs leadership skills?",
     "image": "/assets/channels/you.jpg",
-    "num_activites": 15,
+    "num_activities": 15,
     "activities": [
       {
         "id": 1,
